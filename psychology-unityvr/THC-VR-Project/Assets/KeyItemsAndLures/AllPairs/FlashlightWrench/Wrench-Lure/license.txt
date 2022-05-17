@@ -1,0 +1,11 @@
+Model Information:
+* title:	Weathered Wrench (Game Model)
+* source:	https://sketchfab.com/3d-models/weathered-wrench-game-model-66b29c557ce04bb0b14bdde2cc204a2f
+* author:	Michael Makivic (https://sketchfab.com/makivic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Weathered Wrench (Game Model)" (https://sketchfab.com/3d-models/weathered-wrench-game-model-66b29c557ce04bb0b14bdde2cc204a2f) by Michael Makivic (https://sketchfab.com/makivic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

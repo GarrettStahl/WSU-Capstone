@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat Scratching Post
+* source:	https://sketchfab.com/3d-models/cat-scratching-post-b635eeea2cdd4d22899dc6d3381c3f59
+* author:	Nick Broad (https://sketchfab.com/nickbroad)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat Scratching Post" (https://sketchfab.com/3d-models/cat-scratching-post-b635eeea2cdd4d22899dc6d3381c3f59) by Nick Broad (https://sketchfab.com/nickbroad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
