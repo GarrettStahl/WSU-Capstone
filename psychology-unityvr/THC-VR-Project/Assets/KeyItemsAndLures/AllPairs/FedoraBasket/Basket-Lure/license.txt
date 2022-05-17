@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wicker basket 01
+* source:	https://sketchfab.com/3d-models/wicker-basket-01-d0153e62dfbb4659b0cb55d5bf51a9d1
+* author:	koss2712 (https://sketchfab.com/koss2712)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wicker basket 01" (https://sketchfab.com/3d-models/wicker-basket-01-d0153e62dfbb4659b0cb55d5bf51a9d1) by koss2712 (https://sketchfab.com/koss2712) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

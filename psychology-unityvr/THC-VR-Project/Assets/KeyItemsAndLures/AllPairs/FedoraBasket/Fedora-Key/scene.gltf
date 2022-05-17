@@ -1,0 +1,441 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7775,
+      "max": [
+        1.3977587223052979,
+        1.053536057472229,
+        0.40205448865890503
+      ],
+      "min": [
+        -1.2047598361968994,
+        -1.0535469055175781,
+        -0.5118132829666138
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 93300,
+      "componentType": 5126,
+      "count": 7775,
+      "max": [
+        1.0,
+        0.997726559638977,
+        0.9999994039535522
+      ],
+      "min": [
+        -0.999987781047821,
+        -0.9990466237068176,
+        -0.9999947547912598
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7775,
+      "max": [
+        0.9998042583465576,
+        1.0,
+        0.9999610781669617,
+        1.0
+      ],
+      "min": [
+        -0.9998122453689575,
+        -1.0,
+        -0.3535556495189667,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7775,
+      "max": [
+        0.9931825995445251,
+        0.988196611404419
+      ],
+      "min": [
+        0.010568501427769661,
+        0.4756735861301422
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 44160,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 186600,
+      "componentType": 5126,
+      "count": 1560,
+      "max": [
+        0.9785233736038208,
+        0.8479920029640198,
+        -0.17588777840137482
+      ],
+      "min": [
+        -0.985440194606781,
+        -0.8479920625686646,
+        -0.4411340057849884
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 205320,
+      "componentType": 5126,
+      "count": 1560,
+      "max": [
+        0.999883234500885,
+        0.993820309638977,
+        0.9999958276748657
+      ],
+      "min": [
+        -0.9999937415122986,
+        -0.9938205480575562,
+        -0.9942320585250854
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 124400,
+      "componentType": 5126,
+      "count": 1560,
+      "max": [
+        0.9998073577880859,
+        1.0,
+        0.08781349658966064,
+        1.0
+      ],
+      "min": [
+        -0.999808132648468,
+        -1.0,
+        -0.0879063531756401,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 62200,
+      "componentType": 5126,
+      "count": 1560,
+      "max": [
+        0.7655722498893738,
+        0.3843737840652466
+      ],
+      "min": [
+        0.033046796917915344,
+        0.06740006804466248
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 176640,
+      "componentType": 5125,
+      "count": 7680,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Marko Korbun (https://sketchfab.com/Marko.Korbun)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/fedora-eb46b3407c67491f98a13df1b86950fa",
+      "title": "Fedora"
+    },
+    "generator": "Sketchfab-11.49.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 207360,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 74680,
+      "byteOffset": 207360,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 224040,
+      "byteOffset": 282040,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 149360,
+      "byteOffset": 506080,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 655440,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Fedora_baseColor.png"
+    },
+    {
+      "uri": "textures/Fedora_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Fedora_normal.png"
+    },
+    {
+      "uri": "textures/Strap_baseColor.png"
+    },
+    {
+      "uri": "textures/Strap_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Strap_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Fedora",
+      "normalTexture": {
+        "index": 2,
+        "scale": 0.37366615853658536
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Strap",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Fedora_Fedora_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Strap_Strap_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "085c40ecd82a4c2293b468ebfbfbfaf7.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        145.82266235351563,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -2.3757527221360404e-05,
+        -145.8226623535137,
+        0.0,
+        0.0,
+        145.8226623535137,
+        -2.3757527221360404e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Fedora"
+    },
+    {
+      "mesh": 0,
+      "name": "Fedora_Fedora_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        145.82266235351563,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -2.3757527221360404e-05,
+        -145.8226623535137,
+        0.0,
+        0.0,
+        145.8226623535137,
+        -2.3757527221360404e-05,
+        0.0,
+        -0.3945205807685852,
+        -0.9241277575492859,
+        -1.44177670335921e-06,
+        1.0
+      ],
+      "name": "Strap"
+    },
+    {
+      "mesh": 1,
+      "name": "Strap_Strap_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}

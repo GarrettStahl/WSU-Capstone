@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sempai Coffee maker
+* source:	https://sketchfab.com/3d-models/sempai-coffee-maker-79198df57a7b4693bd2704b76d58bff9
+* author:	harway (https://sketchfab.com/harway)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sempai Coffee maker" (https://sketchfab.com/3d-models/sempai-coffee-maker-79198df57a7b4693bd2704b76d58bff9) by harway (https://sketchfab.com/harway) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

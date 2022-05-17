@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toaster
+* source:	https://sketchfab.com/3d-models/toaster-372be60a809e48f3a0059618cc09cddb
+* author:	hoschu (https://sketchfab.com/hoschu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toaster" (https://sketchfab.com/3d-models/toaster-372be60a809e48f3a0059618cc09cddb) by hoschu (https://sketchfab.com/hoschu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

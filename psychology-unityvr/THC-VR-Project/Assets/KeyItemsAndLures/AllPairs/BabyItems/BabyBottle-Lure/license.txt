@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baby Bottle
+* source:	https://sketchfab.com/3d-models/baby-bottle-4435f08637794f47a8e17197cff81935
+* author:	kasym.hashim (https://sketchfab.com/kasym.hashim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baby Bottle" (https://sketchfab.com/3d-models/baby-bottle-4435f08637794f47a8e17197cff81935) by kasym.hashim (https://sketchfab.com/kasym.hashim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
