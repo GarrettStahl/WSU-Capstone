@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red Cooking Pot
+* source:	https://sketchfab.com/3d-models/red-cooking-pot-136448f5c07f477ab020105515e97a25
+* author:	DV assets (https://sketchfab.com/DVassets)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red Cooking Pot" (https://sketchfab.com/3d-models/red-cooking-pot-136448f5c07f477ab020105515e97a25) by DV assets (https://sketchfab.com/DVassets) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
