@@ -1,0 +1,11 @@
+Model Information:
+* title:	Top hat
+* source:	https://sketchfab.com/3d-models/top-hat-39f0b1297c3440bfbb9594970d526a74
+* author:	workwalker (https://sketchfab.com/workwalker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Top hat" (https://sketchfab.com/3d-models/top-hat-39f0b1297c3440bfbb9594970d526a74) by workwalker (https://sketchfab.com/workwalker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

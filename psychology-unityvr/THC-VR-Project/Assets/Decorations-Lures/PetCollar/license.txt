@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pet collar
+* source:	https://sketchfab.com/3d-models/pet-collar-3592fc56b4ff41d4819b75e4e917e938
+* author:	Skaði (https://sketchfab.com/_Skadi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pet collar" (https://sketchfab.com/3d-models/pet-collar-3592fc56b4ff41d4819b75e4e917e938) by Skaði (https://sketchfab.com/_Skadi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

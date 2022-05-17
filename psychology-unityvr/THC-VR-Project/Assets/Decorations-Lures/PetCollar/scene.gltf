@@ -1,0 +1,491 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1304,
+      "max": [
+        0.49509912729263306,
+        0.08321274071931839,
+        0.6149609684944153
+      ],
+      "min": [
+        -0.49509912729263306,
+        -0.2465515434741974,
+        -0.49976325035095215
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 15648,
+      "componentType": 5126,
+      "count": 1304,
+      "max": [
+        1.0,
+        0.9999916553497314,
+        0.9999916553497314
+      ],
+      "min": [
+        -1.0,
+        -0.9999916553497314,
+        -0.9999916553497314
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1304,
+      "max": [
+        1.0,
+        0.9997430443763733,
+        0.999991774559021,
+        1.0
+      ],
+      "min": [
+        -0.9996390342712402,
+        -0.9999916553497314,
+        -0.9999917149543762,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1304,
+      "max": [
+        0.9999271631240845,
+        0.9702496528625488
+      ],
+      "min": [
+        7.283393642865121e-05,
+        0.34199872612953186
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 5949,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 5,
+      "max": [
+        10.000001907348633,
+        0.22141245007514954,
+        0.0,
+        0.0,
+        0.11636215448379517,
+        10.000003814697266,
+        0.0004828485834877938,
+        0.0,
+        0.0,
+        0.7138581275939941,
+        10.000003814697266,
+        0.0,
+        0.0,
+        0.02015729993581772,
+        0.5570275783538818,
+        1.0
+      ],
+      "min": [
+        0.9741082191467285,
+        -0.002866828115656972,
+        -0.16844214498996735,
+        0.0,
+        -0.0028258736710995436,
+        -0.9999960064888,
+        -0.7382932305335999,
+        0.0,
+        -0.19383768737316132,
+        0.0,
+        -0.9857116341590881,
+        0.0,
+        -0.10653408616781235,
+        -0.4078603982925415,
+        0.0,
+        1.0
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 1304,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 20864,
+      "componentType": 5126,
+      "count": 1304,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Skaði (https://sketchfab.com/_Skadi)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pet-collar-3592fc56b4ff41d4819b75e4e917e938",
+      "title": "Pet collar"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 10432,
+      "byteStride": 8,
+      "name": "shortBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23796,
+      "byteOffset": 10432,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10432,
+      "byteOffset": 34228,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31296,
+      "byteOffset": 44660,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 41728,
+      "byteOffset": 75956,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 320,
+      "byteOffset": 117684,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 118004,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Collar_baseColor.png"
+    },
+    {
+      "uri": "textures/Collar_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Collar_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Collar",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Collar_Collar_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 6,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "WEIGHTS_0": 7
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "6c6f63746ebf40928c5cf89cb04d329d.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        10.000001907348633,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292071046648492e-06,
+        -10.000001907348501,
+        0.0,
+        0.0,
+        10.000001907348501,
+        -1.6292071046648492e-06,
+        0.0,
+        0.0,
+        2.7984278202056885,
+        0.0,
+        1.0
+      ],
+      "name": "Armature.001"
+    },
+    {
+      "children": [
+        5,
+        11,
+        10
+      ],
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "_rootJoint"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Collar_00",
+      "rotation": [
+        0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071067094802856
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -0.30000001192092896
+      ]
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "Ring_01",
+      "rotation": [
+        0.9098632335662842,
+        0.09280917048454285,
+        -0.06582063436508179,
+        0.3990025520324707
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        0.18082435429096222,
+        -0.02424106001853943,
+        0.4739413261413574
+      ]
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "Bell_02",
+      "rotation": [
+        0.405623197555542,
+        -0.01187878753989935,
+        0.060043301433324814,
+        0.9119887948036194
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "translation": [
+        -7.450580596923828e-09,
+        0.08010297268629074,
+        -4.6566128730773926e-09
+      ]
+    },
+    {
+      "name": "Bell_end_03",
+      "rotation": [
+        -9.413315370853455e-20,
+        3.3063399045005124e-38,
+        -3.512407404247168e-19,
+        1.0
+      ],
+      "translation": [
+        0.0,
+        0.1404731720685959,
+        0.0
+      ]
+    },
+    {
+      "matrix": [
+        10.000001907348633,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.04084909182590546,
+        -9.999920248969714,
+        0.0,
+        0.0,
+        9.999920248969714,
+        0.04084909182590546,
+        0.0,
+        1.0803344636656356e-06,
+        -0.0995935845324869,
+        -0.044323219058470364,
+        1.0
+      ],
+      "name": "Object_10"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_11",
+      "skin": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 5,
+      "joints": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "skeleton": 5
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

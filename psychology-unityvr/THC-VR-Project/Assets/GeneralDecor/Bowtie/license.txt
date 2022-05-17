@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bowtie
+* source:	https://sketchfab.com/3d-models/bowtie-a3f9109d67fe429aa527428dcdac1c6e
+* author:	TorryMathis (https://sketchfab.com/TorryMathis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bowtie" (https://sketchfab.com/3d-models/bowtie-a3f9109d67fe429aa527428dcdac1c6e) by TorryMathis (https://sketchfab.com/TorryMathis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

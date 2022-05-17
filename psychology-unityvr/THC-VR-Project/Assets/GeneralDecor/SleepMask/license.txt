@@ -1,0 +1,11 @@
+Model Information:
+* title:	Silk Sleep Mask
+* source:	https://sketchfab.com/3d-models/silk-sleep-mask-e010cefb12434adaa70c64b0f9bae79a
+* author:	SupaRioAmateur (https://sketchfab.com/suparioamateur)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Silk Sleep Mask" (https://sketchfab.com/3d-models/silk-sleep-mask-e010cefb12434adaa70c64b0f9bae79a) by SupaRioAmateur (https://sketchfab.com/suparioamateur) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

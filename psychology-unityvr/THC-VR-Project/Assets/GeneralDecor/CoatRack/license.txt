@@ -1,0 +1,11 @@
+Model Information:
+* title:	coat rack
+* source:	https://sketchfab.com/3d-models/coat-rack-2d581c7d6468434aac479c50f87d48d0
+* author:	renzcabiscuelas (https://sketchfab.com/renzcabiscuelas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "coat rack" (https://sketchfab.com/3d-models/coat-rack-2d581c7d6468434aac479c50f87d48d0) by renzcabiscuelas (https://sketchfab.com/renzcabiscuelas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
